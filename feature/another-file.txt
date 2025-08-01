@@ -5,3 +5,5 @@ This file was modified locally
 THis libe was assed in feature 2 branch
 
 Another moditification in the feature-2 branch
+
+Edit in the feature-2 branch
