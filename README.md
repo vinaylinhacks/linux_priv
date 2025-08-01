@@ -4,3 +4,5 @@ This line was modified manully during conflict resolution
 
 
 New line was added locally
+
+Another line created from locally
